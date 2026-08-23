@@ -81,4 +81,4 @@ p04-md-converter/
 
 ## 📝 Licencia
 
-MIT
+MIT Fabri dev
