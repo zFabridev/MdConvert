@@ -6,8 +6,6 @@ md_convert.py
 CLI para convertir archivos Markdown (.md) a HTML o EPUB, con soporte
 para aplicar una hoja de estilos CSS personalizada y procesar archivos
 individuales o carpetas completas.
-
-Autor: Generado con ayuda de Claude (Anthropic)
 Licencia: MIT
 """
 
